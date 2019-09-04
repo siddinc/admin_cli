@@ -1,0 +1,17 @@
+{
+  "name": "admin_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.4.1",
+    "mongoose": "^5.6.2",
+    "short-uuid": "^3.1.1"
+  }
+}
